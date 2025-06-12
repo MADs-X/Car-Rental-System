@@ -1,0 +1,16 @@
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\bin\Debug\net8.0-windows\CarRentalSystem.exe
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\bin\Debug\net8.0-windows\CarRentalSystem.deps.json
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\bin\Debug\net8.0-windows\CarRentalSystem.runtimeconfig.json
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\bin\Debug\net8.0-windows\CarRentalSystem.dll
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\bin\Debug\net8.0-windows\CarRentalSystem.pdb
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\CarRentalSystem.Form1.resources
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\CarRentalSystem.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\CarRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\CarRentalSystem.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\CarRentalSystem.AssemblyInfo.cs
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\CarRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\CarRentalSystem.dll
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\refint\CarRentalSystem.dll
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\CarRentalSystem.pdb
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\CarRentalSystem.genruntimeconfig.cache
+C:\Users\muham\source\repos\Ders_1\CarRentalSystem\obj\Debug\net8.0-windows\ref\CarRentalSystem.dll
